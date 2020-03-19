@@ -1,2 +1,2 @@
 # TosinAjose
-GIT Task 1 from HNG intership 
+GIT Task 1 from HNG internship 
